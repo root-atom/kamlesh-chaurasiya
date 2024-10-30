@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kamlesh-chaurasiya/static/css/main.85a23615.css",
+    "main.js": "/kamlesh-chaurasiya/static/js/main.3e1e86e8.js",
+    "static/media/HeroImage.png": "/kamlesh-chaurasiya/static/media/HeroImage.8cdcd52047fcefb5379c.png",
+    "index.html": "/kamlesh-chaurasiya/index.html",
+    "main.85a23615.css.map": "/kamlesh-chaurasiya/static/css/main.85a23615.css.map",
+    "main.3e1e86e8.js.map": "/kamlesh-chaurasiya/static/js/main.3e1e86e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a23615.css",
+    "static/js/main.3e1e86e8.js"
+  ]
+}
